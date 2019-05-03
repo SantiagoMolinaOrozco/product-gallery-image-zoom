@@ -1,6 +1,6 @@
 {
   "name": "@santi020k/product-gallery-image-zoom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "I did not make this library, I only create the repo because I needed it",
   "main": "index.js",
   "scripts": {
