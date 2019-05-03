@@ -1,19 +1,19 @@
-# 基于 jQuery 的图片放大镜
+# Base jQuery Zoom
 
-#### 使用方法
+#### Instructions
 ```js
 $('.show').zoomImage({
-    layerW: 200, // 遮罩宽度
-    layerH: 200, // 遮罩高度
-    layerOpacity: 0.5, // 遮罩透明度
-    layerBgc: '#000', // 遮罩背景颜色
-    showPanelW: 500, // 显示放大区域宽
-    showPanelH: 500, // 显示放大区域高
-    marginL: 20, // 放大区域离缩略图右侧距离
-    marginT: 0 // 放大区域离缩略图上侧距离
+    layerW: 200, // Width
+    layerH: 200, // Height
+    layerOpacity: 0.5, // Transparency
+    layerBgc: '#000', // Background color
+    showPanelW: 500, // Display magnified area width
+    showPanelH: 500, // Display zoom area high
+    marginL: 20, // Magnification area from the right side of the thumbnail
+    marginT: 0 // Zoom in area from the top side of the thumbnail
 });
 ```
 
 #### [DEMO](https://monsterduang.github.io/images-zoom/)
 
-Note: I did not make the library, I only create the repo because I needed it
+Note: I did not make this library, I only create the repo because I needed it
