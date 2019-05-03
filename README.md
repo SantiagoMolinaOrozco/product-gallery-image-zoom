@@ -17,3 +17,5 @@ $('.show').zoomImage({
 #### [DEMO](https://monsterduang.github.io/images-zoom/)
 
 Note: I did not make this library, I only create the repo because I needed it
+
+####  [Doc](https://www.jqueryscript.net/gallery/Product-Gallery-Image-Zoom.html)
