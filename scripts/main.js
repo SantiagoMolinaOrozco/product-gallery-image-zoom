@@ -1,5 +1,5 @@
 $(document).ready(() => {
-  $(".show").zoomImage();
+  $(".zoom-image").zoomImage();
   $(".show-small-img:first-of-type").css({
     border: "solid 1px #951b25",
     padding: "2px"
